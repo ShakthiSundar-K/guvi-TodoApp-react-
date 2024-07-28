@@ -1,0 +1,14 @@
+h2{
+  text-align: center;
+  margin-top: 1.5rem;
+  color: 	#2E8B57;
+}
+.custom-outline {
+  outline: 2px solid 	#2E8B57; 
+}
+.taskdetails {
+  background-color: #AFE1AF; /* If you prefer to set it here instead of inline */
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
